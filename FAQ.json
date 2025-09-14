@@ -1,0 +1,9 @@
+{
+  "faqs": [
+    { "q": "¿Cuál es el horario de atención?", "a": "Lun a Vie de 9:00 a 18:00 (GMT-3)." },
+    { "q": "¿Cómo puedo pagar?", "a": "Con tarjeta, transferencia o link de pago seguro." },
+    { "q": "¿Ofrecen demo?", "a": "Sí, podés agendar una demo sin costo." },
+    { "q": "¿Tienen soporte?", "a": "Soporte por chat y email, respuesta en 24 h hábiles." },
+    { "q": "¿Dónde veo precios?", "a": "En nuestro sitio oficial: {{official_site}}/precios" }
+  ]
+}
