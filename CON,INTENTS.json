@@ -1,4 +1,17 @@
 {
+  "official_site": "https://tu-sitio.com",
+  "facebook_url": "https://facebook.com/tu_marca",
+  "instagram_url": "https://instagram.com/tu_marca",
+  "weekend_message": "¡Gracias por escribir! Fuera de horario respondemos el siguiente día hábil.",
+  "handoff_phrase": "Te conecto con una persona del equipo en unos minutos.",
+  "fallback_phrase": "No me quedó claro, ¿podés reformular?",
+  "offer_hours_default": "09:00–18:00",
+  "payment_link": "https://tu-sitio.com/pagar",
+  "bank_alias": "tu.banco.alias",
+  "bank_cbu": "0000000000000000000000"
+}
+
+{
   "intents_keywords": ["precio", "pago", "demo", "soporte", "horario", "contacto"],
   "intents_map": {
     "precio": "bloque_precios",
