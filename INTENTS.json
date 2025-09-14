@@ -1,0 +1,19 @@
+{
+  "intents_keywords": ["precio", "pago", "demo", "soporte", "horario", "contacto"],
+  "intents_map": {
+    "precio": "bloque_precios",
+    "pago": "bloque_pago",
+    "demo": "bloque_demo",
+    "soporte": "bloque_soporte",
+    "horario": "bloque_horario",
+    "contacto": "bloque_contacto"
+  },
+  "guidelines": "Priorizar coincidencia completa de intención; si varias coinciden, aplicar orden: pago > precios > soporte > demo > horario > contacto. Usa fallback_phrase si no hay match.",
+  "examples": [
+    { "input": "¿Cuánto cuesta?", "intent": "precio" },
+    { "input": "Quiero pagar ahora", "intent": "pago" },
+    { "input": "¿Puedo agendar una demo?", "intent": "demo" },
+    { "input": "Necesito ayuda técnica", "intent": "soporte" },
+    { "input": "¿Cuál es su horario?", "intent": "horario" }
+  ]
+}
